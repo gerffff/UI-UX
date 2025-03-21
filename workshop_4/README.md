@@ -19,7 +19,13 @@
 Орієнтовний час виконання - до 90 хвилин  
 Повторіть у фігмі “один в один” наступну іконку.<br><br>  
 
-![image](https://github.com/user-attachments/assets/d4699593-4436-4727-9ce3-25abb811c9f5)
+![image](https://github.com/user-attachments/assets/d4699593-4436-4727-9ce3-25abb811c9f5)    
+<br><br>  
+   
+# Виконання завдання
+У фігмі я виконав завдання Basic та Medium
+<br><br> 
+![image](https://github.com/user-attachments/assets/63041473-5787-427e-bee3-28514b5b5b70)
 
 
-Виконання завдання
+
