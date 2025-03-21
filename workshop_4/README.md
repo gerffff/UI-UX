@@ -20,3 +20,6 @@
 Повторіть у фігмі “один в один” наступну іконку.<br><br>  
 
 ![image](https://github.com/user-attachments/assets/d4699593-4436-4727-9ce3-25abb811c9f5)
+
+
+Виконання завдання
