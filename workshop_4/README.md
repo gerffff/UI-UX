@@ -24,7 +24,7 @@
    
 # Виконання завдання
 У фігмі я виконав завдання Basic та Medium  
-<br><br
+<br>
 Посилання на виконане завдання у фігмі:  
 https://www.figma.com/design/96g7e96mb6js5fhy0kPAIy/Untitled?node-id=0-1&p=f&t=GDzTqlacYAmcV7Cv-0
 <br><br> 
