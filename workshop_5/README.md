@@ -4,6 +4,7 @@
 <br></br>
 # Виконання завдання  
 <br>
+
 ![image](https://github.com/user-attachments/assets/1ef5d3b4-1383-4654-9087-f251625fbe39)
 
 
