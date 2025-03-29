@@ -23,9 +23,18 @@
 <br><br>  
    
 # Виконання завдання
-У фігмі я виконав завдання Basic та Medium  
-<br><br> 
-![image](https://github.com/user-attachments/assets/63041473-5787-427e-bee3-28514b5b5b70)
+## Basic 
+<br>
+  
+![image](https://github.com/user-attachments/assets/0ec2eff2-a852-44ff-8aeb-9c4b75b3bf80)  
+<br> 
+## Medium
+<br>
+  
+![image](https://github.com/user-attachments/assets/c60448d9-87e2-4db6-8efb-eaa8c0ca6295)  
+<br> 
+## Advanced
+<br>  
 
-
+![image](https://github.com/user-attachments/assets/fadf20d1-c477-4ce8-af82-da70dbfda351)
 
