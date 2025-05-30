@@ -7,6 +7,4 @@
 <br>  
 
 ### Виконане завдання  
-<br>
-   
-![image](https://github.com/user-attachments/assets/ae594dd6-860e-4bb6-82ac-f0176a9c3eaa)
+https://www.figma.com/design/bzNoENtUuQ9p3V9d9PAHQg/%D0%94%D1%80%D1%83%D0%B3%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0?t=svpF8Y6ptnBLA6we-0
